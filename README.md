@@ -44,3 +44,4 @@ Os clusters são perfis estatísticos e não classificações de desperdício ou
 ## Arquivos
 - `Checkpoint_3_Clustering_Energia_Preenchido.ipynb`: notebook executado, com códigos, tabelas, gráficos, análises e conclusão.
 - `README.md`: documentação do projeto.
+
