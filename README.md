@@ -18,7 +18,7 @@ Variáveis:
 - `consumo_noturno_pct`: percentual do consumo mensal entre 18h e 6h.
 
 ## Como executar
-1. Abra o arquivo `Checkpoint_3_Clustering_Energia_Preenchido.ipynb` no Jupyter Notebook, JupyterLab ou Google Colab.
+1. Abra o arquivo `Checkpoint_3_Clustering_Energia_573308.ipynb` no Jupyter Notebook, JupyterLab ou Google Colab.
 2. Certifique-se de ter Python 3 e as bibliotecas `pandas`, `numpy`, `matplotlib` e `scikit-learn` instaladas.
 3. Execute todas as células na ordem, de cima para baixo.
 4. A base já está incorporada ao notebook; não é necessário configurar caminho ou importar CSV externo.
