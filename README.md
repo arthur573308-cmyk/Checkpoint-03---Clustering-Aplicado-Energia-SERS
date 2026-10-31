@@ -42,6 +42,5 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 Os clusters são perfis estatísticos e não classificações de desperdício ou eficiência. A base é simulada e não permite conclusões sobre custos, tarifas ou causas do consumo sem dados adicionais.
 
 ## Arquivos
-- `Checkpoint_3_Clustering_Energia_Preenchido.ipynb`: notebook executado, com códigos, tabelas, gráficos, análises e conclusão.
+- `Checkpoint_3_Clustering_Energia_573308.ipynb`: notebook executado, com códigos, tabelas, gráficos, análises e conclusão.
 - `README.md`: documentação do projeto.
-
